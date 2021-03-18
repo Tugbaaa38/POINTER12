@@ -10,7 +10,7 @@ int main() {
      ptr=sayilar;   //sayilar dizisinin ilk elemanini ptr degiskenine atadik..
      
      *ptr++=10;       //Bu ise 0.indexe 10 degerini ata daha sonra ise index degerini 1 arttir demektir..
-     *ptr=20;         //ptr nin indexi artik  oldu cunku yukarida index arttirma islemini yaptik.ü
+     *ptr=20;         //ptr nin indexi artik 1 oldu cunku yukarida index arttirma islemini yaptik.
       
 	  for(i=0;i<5;i++)
 	  {
